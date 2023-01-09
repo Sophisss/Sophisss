@@ -20,8 +20,6 @@
 [![Sophisss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sophisss"></img>
-
 <!--   grid-snake -->
 ![](https://github.com/Sophisss/Sophisss/blob/output/github-contribution-grid-snake.svg)
 
