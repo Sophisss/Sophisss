@@ -13,10 +13,9 @@
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Sofia;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
-                                                                                                                                                                                                                                              
-<!--   GitHub stats graph -->
+                                                                                                                                                                       <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Sophisss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
 
 
 [MIT](LICENSE)
