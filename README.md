@@ -1,4 +1,7 @@
-![](assets/Bottom_up.svg)
+<div align="center">
+<img src="https://github.com/Clara-Pacheco/Clara-Pacheco/blob/main/Bottom_up.svg" width="100%" height="auto">
+<img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47llnn0i7wk7gr21m12b05zfa31jfz70oi2tck0pxh&rid=giphy.gif&ct=g" width="100%" height="auto" frameBorder="0">
+</div>
 
 <!--   my-icons -->
 <p align="center">
@@ -7,10 +10,6 @@
     <a href="https://github.com/Sophisss/Sophisss/stargazers"><img src="https://img.shields.io/github/stars/Sophisss/Sophisss.svg?logo=github"></a>
     <a href="https://github.com/Sophisss/Sophisss/network/members"><img src="https://img.shields.io/github/forks/Sophisss/Sophisss.svg?color=blue&logo=github"></a>  
 </p>
-
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Sofia;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
@@ -21,7 +20,8 @@
 
 
 <!--   grid-snake -->
-![](https://github.com/Sophisss/Sophisss/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake commits                                                                                                                             
+  ![Snake animation](https://github.com/Sophisss/Sophisss/blob/output/github-contribution-grid-snake.svg)
 
 [MIT](LICENSE)
 
