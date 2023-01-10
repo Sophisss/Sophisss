@@ -19,10 +19,6 @@
 [![Sophisss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
 
 
-<!--   grid-snake -->
-## 🐍 Snake commits                                                                                                                             
-  ![Snake animation](https://github.com/Sophisss/Sophisss/blob/output/github-contribution-grid-snake.svg)
-
 [MIT](LICENSE)
 
 
