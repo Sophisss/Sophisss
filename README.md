@@ -17,6 +17,9 @@
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
 
+### You are visitor Nº
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/Sophisss/count.svg"> 
 
 [MIT](LICENSE)
 
