@@ -8,17 +8,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Sofia;+Welcome+to+My+Profile!;)](https://git.io/typing-svg)
 
 
-<div style="flex: 50%">
+<!--   my-skils -->
 
   Property | Data
   --- | --- 
-  ** IDEs**  |![VsCode Badge](https://img.shields.io/badge/-VS%20Code-2088FF?style=flat&logo=VisualStudioCode&logoColor=white) ![Intellij Badge](https://img.shields.io/badge/-IntelliJ-2088FF?style=flat&logo=IntellijIdea&logoColor=white)
-  **Languages**  | ![Java Badge](https://img.shields.io/badge/-Java-20881F?style=flat&logo=java&logoColor=white) ![Php Badge](https://img.shields.io/badge/-PHP-20881F?style=flat&logo=PHP&logoColor=white) ![DB Badge](https://img.shields.io/badge/MySql-20881F.svg?logo=MySql&logoColor=white)
-  **VCS** | ![Git](https://img.shields.io/badge/-Git%20-FF4400?style=flat&logo=Git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-FF4400?style=flat&logo=Github&logoColor=white) 
-  **Knownledge**  | ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) <!-- ![IT Security](https://img.shields.io/badge/-IT%20Security-FF6600?style=flat&logoColor=white) -->
-  **OS**  | 
+  **IDEs**  |![VsCode Badge](https://img.shields.io/badge/-VS%20Code-2088FF?style=flat&logo=VisualStudioCode&logoColor=white) ![Intellij Badge](https://img.shields.io/badge/-IntelliJ-2088FF?style=flat&logo=IntellijIdea&logoColor=white)
+  **Languages**  | ![Java Badge](https://img.shields.io/badge/-Java-20881F?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Php Badge](https://img.shields.io/badge/-PHP-20881F?style=flat&logo=PHP&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Angular](https://img.shields.io/badge/A-Angular-red) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-brightgreen) ![NodeJs](https://img.shields.io/badge/NJS-NodeJs-green)
+  **VCS** | ![Git](https://img.shields.io/badge/-Git%20-FF4400?style=flat&logo=Git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-FF4400?style=flat&logo=Github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab%20-FF4400?style=flat&logo=GitLab&logoColor=white) 
+  **Knownledge**  | ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)
+  **OS**  | [Windows Badge](https://img.shields.io/badge/Windows-000000.svg?logo=windows) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=white)
 
-  </div>
                                                                                                                                                                        <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![Sophisss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
