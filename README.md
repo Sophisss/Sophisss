@@ -18,7 +18,7 @@
 | **Knownledge**                           | [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
 | **CI / CD**                                     | ![Git](https://img.shields.io/badge/-Git%20-FF4400?style=flat&logo=Git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-FF4400?style=flat&logo=Github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab%20-FF4400?style=flat&logo=GitLab&logoColor=white)                                                                                                                                 
 | **Databases**                                   | ![DB Badge](https://img.shields.io/badge/MySql-blue.svg?logo=MySql&logoColor=white) ![MariaDb](https://img.shields.io/badge/-MariaDb-blue.svg?logo=MariaDb&logoColor=white)                                                    |
-| **OS**                                          | ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=white) ![Windows Badge](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=white)    
+| **OS**                                          | ![Windows Badge](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=white) ![KaliLinux Badge](https://img.shields.io/badge/-KaliLinux-000000?style=flat&logo=KaliLinux&logoColor=white)       
   
           
   <br>
