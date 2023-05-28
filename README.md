@@ -23,11 +23,7 @@
   
           
   <br>
- 
-### 📈 GitHub Activity Graph:
-[![Sophisss's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sophisss&theme=github-compact)](https://github.com/Sophisss/github-readme-activity-graph)
 
-  
   
 
 ### You are visitor Nº
