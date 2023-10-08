@@ -19,7 +19,7 @@
 | **CI / CD**                                     | ![Git](https://img.shields.io/badge/-Git%20-FF4400?style=flat&logo=Git&logoColor=white) ![Github Badge](https://img.shields.io/badge/-Github%20-FF4400?style=flat&logo=Github&logoColor=white)                                                                              
 | **Databases**                                   | ![DB Badge](https://img.shields.io/badge/MySql-blue.svg?logo=MySql&logoColor=white) ![MariaDb](https://img.shields.io/badge/-MariaDb-blue.svg?logo=MariaDb&logoColor=white)                                                    |
 | **OS**                                          | ![Windows Badge](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=Ubuntu&logoColor=white)
-| **Tools & Platform**                            | ![NodeJS Badge](https://img.shields.io/badge/NodeJS-E34F26?style=flat&logo=nodejs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-E34F26??style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-E34F26??style=flat&logo=aws&logoColor=white)
+| **Tools & Platform**                            | ![NodeJS Badge](https://img.shields.io/badge/NodeJS-E34F26?style=flat&logo=nodejs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-E34F26??style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-E34F26??style=flat&logo=amazon-aws&logoColor=white)
   
           
   <br>
